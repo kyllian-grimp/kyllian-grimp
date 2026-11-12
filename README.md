@@ -14,7 +14,7 @@ Ce compte GitHub regroupe mon travail professionnel : produits, outils internes 
 - Développeur Fullstack chez **Grimp**
 - Mon compte Github Personnel : [**@tezc4t**](https://github.com/tezc4t)
 
-## 🧰 Stack technique
+## Stack technique
 
 ### Langages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
