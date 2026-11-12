@@ -9,7 +9,7 @@
 </div>
 
 Je suis **Kyllian Nouh**, **développeur Fullstack chez Grimp**.
-Ce compte GitHub regroupe mon travail professionnel : produits, outils internes et projets menés avec l'équipe Grimp.
+Ce compte GitHub est mon compte professionnel.
 
 - Développeur Fullstack chez **Grimp**
 - Mon compte Github Personnel : [**@tezc4t**](https://github.com/tezc4t)
